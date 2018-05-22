@@ -1,14 +1,14 @@
 {
-  "name": "CustomWidgetTemplate",
+  "name": "MyCustomWidget",
   "2D": true,
   "3D": false,
   "platform": "HTML",
   "version": "2.7",
   "wabVersion": "2.7",
-  "author": "Esri R&D Center Beijing",
-  "description": "This is the custom widget",
+  "author": "Richard Merino",
+  "description": "This is Ricardo's first custom widget",
   "copyright": "",
-  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "license": "MIT",
   "properties": {
 		"inPanel":true,
 		"hasLocale": true,

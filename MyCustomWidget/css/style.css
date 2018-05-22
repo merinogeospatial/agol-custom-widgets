@@ -1,0 +1,5 @@
+.jimu-widget-mycustomwidget div:first-child {
+    color:red;
+    font-size: 24pt;
+    text-align: center;
+}
